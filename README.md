@@ -2,7 +2,7 @@
 
 Custom Slack emojis from the Mentimeter workspace: 82 added by Peter Assi Geijer, plus selected favorites.
 
-89 emojis imported on 6 November 2026. Original image formats and GIF animations are preserved.
+91 emojis imported on 6 November 2026. Original image formats and GIF animations are preserved.
 
 ## Emoji gallery
 
@@ -58,6 +58,7 @@ Custom Slack emojis from the Mentimeter workspace: 82 added by Peter Assi Geijer
 | <img src="emojis/lina-this-is-fine.png" alt=":lina-this-is-fine:" width="64" /> | `:lina-this-is-fine:` |
 | <img src="emojis/live-creation-team.png" alt=":live-creation-team:" width="64" /> | `:live-creation-team:` |
 | <img src="emojis/lolwut.png" alt=":lolwut:" width="64" /> | `:lolwut:` |
+| <img src="emojis/love_eyes.gif" alt=":love_eyes:" width="64" /> | `:love_eyes:` |
 | <img src="emojis/manana.png" alt=":manana:" width="64" /> | `:manana:` |
 | <img src="emojis/meatballs.png" alt=":meatballs:" width="64" /> | `:meatballs:` |
 | <img src="emojis/menti-live.png" alt=":menti-live:" width="64" /> | `:menti-live:` |
@@ -82,6 +83,7 @@ Custom Slack emojis from the Mentimeter workspace: 82 added by Peter Assi Geijer
 | <img src="emojis/reddit_pranked.png" alt=":reddit_pranked:" width="64" /> | `:reddit_pranked:` |
 | <img src="emojis/reddit_pranked-1.png" alt=":reddit_pranked-1:" width="64" /> | `:reddit_pranked-1:` |
 | <img src="emojis/respect.gif" alt=":respect:" width="64" /> | `:respect:` |
+| <img src="emojis/rocket-animated.gif" alt=":rocket-animated:" width="64" /> | `:rocket-animated:` |
 | <img src="emojis/skellefte.png" alt=":skellefte:" width="64" /> | `:skellefte:` |
 | <img src="emojis/slash.gif" alt=":slash:" width="64" /> | `:slash:` |
 | <img src="emojis/slay-queen.png" alt=":slay-queen:" width="64" /> | `:slay-queen:` |
