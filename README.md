@@ -2,7 +2,7 @@
 
 Custom Slack emojis from the Mentimeter workspace: 82 added by Peter Assi Geijer, plus selected favorites.
 
-87 emojis imported on 6 November 2026. Original image formats and GIF animations are preserved.
+89 emojis imported on 6 November 2026. Original image formats and GIF animations are preserved.
 
 ## Emoji gallery
 
@@ -77,12 +77,14 @@ Custom Slack emojis from the Mentimeter workspace: 82 added by Peter Assi Geijer
 | <img src="emojis/photoshop.png" alt=":photoshop:" width="64" /> | `:photoshop:` |
 | <img src="emojis/please-cat.jpg" alt=":please-cat:" width="64" /> | `:please-cat:` |
 | <img src="emojis/public-enemy.jpg" alt=":public-enemy:" width="64" /> | `:public-enemy:` |
+| <img src="emojis/queen.gif" alt=":queen:" width="64" /> | `:queen:` |
 | <img src="emojis/rasta.png" alt=":rasta:" width="64" /> | `:rasta:` |
 | <img src="emojis/reddit_pranked.png" alt=":reddit_pranked:" width="64" /> | `:reddit_pranked:` |
 | <img src="emojis/reddit_pranked-1.png" alt=":reddit_pranked-1:" width="64" /> | `:reddit_pranked-1:` |
 | <img src="emojis/respect.gif" alt=":respect:" width="64" /> | `:respect:` |
 | <img src="emojis/skellefte.png" alt=":skellefte:" width="64" /> | `:skellefte:` |
 | <img src="emojis/slash.gif" alt=":slash:" width="64" /> | `:slash:` |
+| <img src="emojis/slay-queen.png" alt=":slay-queen:" width="64" /> | `:slay-queen:` |
 | <img src="emojis/smooth.gif" alt=":smooth:" width="64" /> | `:smooth:` |
 | <img src="emojis/spanish-parrot.gif" alt=":spanish-parrot:" width="64" /> | `:spanish-parrot:` |
 | <img src="emojis/starecat.png" alt=":starecat:" width="64" /> | `:starecat:` |
